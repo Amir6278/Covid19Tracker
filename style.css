@@ -1,0 +1,30 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        background: whitesmoke;
+        font-family: 'Georama', sans-serif;
+    }
+    
+    nav {
+        height: 15vh;
+        padding-top: 15px;
+    }
+    
+    .nav-link {
+        font-size: 1.1rem;
+        font-weight: 500;
+    }
+    
+    .nav-link:hover {
+        transform: scale(1.1);
+    }
+    
+    .intro {
+        background: rgb(245, 222, 179, .6);
+        height: 25vh;
+        padding-top: 20px;
+        border: 1px solid black
+    }
